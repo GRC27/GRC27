@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GRC27
+- 👋 Hi, I’m @GRC
 - 👀 I’m interested in ..
 - 🌱 I’m still learning CSS
 - 🏫 I'm in senior highschool
