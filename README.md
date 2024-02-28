@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GRC
 - 👀 I’m interested in ..
-- 🌱 I’m still learning HTML CSS and JS
+- 🌱 I’m still learning HTML CSS JS and PHP
 - 🏫 I'm in senior highschool
 
 <!---
